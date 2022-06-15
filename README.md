@@ -12,6 +12,8 @@ print('Hello World !')
  
  """
 ```
+<hr>
+
 ### 파이썬 자료구조의 종류
 + 리스트(list)
 + 튜플(Tuple)
@@ -20,6 +22,12 @@ print('Hello World !')
 + 스택(stack)
 + 큐(Queue)
 
-이 외에도 많은 자료구조가 있습니다.
+이 외에도 많은 자료구조가 있습니다. <br>
 자료구조는 아직 이해하기 어려운 부분이 많아,
 복습이 많이 필요한 부분이라고 생각합니다.
+
+### 참고하기 좋은 자료
+<hr>
+
++ <a href="https://github.com/AstinCHOI/Python-and-Algorithms-and-Data-Structures"> AstinCHOI님의 GitHub </a>
++ <a href="https://wikidocs.net/2845"> Wikidocs </a>
