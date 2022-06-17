@@ -20,7 +20,7 @@ print('Hello World !')
 ```
 <hr>
 
-### 파이썬 자료구조의 종류
+### 자료구조의 종류
 + 리스트(list)
 + 튜플(Tuple)
 + 딕셔너리(Dictionary)
